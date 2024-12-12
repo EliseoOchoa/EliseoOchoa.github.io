@@ -1,7 +1,7 @@
 
 # Eliseo Ochoa's Portfolio
 
-Hello, I am a computer science major at CSUF and I plan on graduating in 2028
+Hello, I am a computer engineering major at CSUF and I plan on graduating in 2028
 
 ## Favorite CPSC 120L Labs
 
